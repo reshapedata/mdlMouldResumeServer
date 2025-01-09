@@ -2,7 +2,7 @@
 % Please edit documentation in R/MouldResume.R
 \name{MouldResumeServer_view}
 \alias{MouldResumeServer_view}
-\title{按模具编号查询}
+\title{按模具编号查询模具履历}
 \usage{
 MouldResumeServer_view(input, output, session, dms_token)
 }
@@ -19,7 +19,7 @@ MouldResumeServer_view(input, output, session, dms_token)
 返回值
 }
 \description{
-按模具编号查询
+按模具编号查询模具履历
 }
 \examples{
 MouldResumeServer_view()

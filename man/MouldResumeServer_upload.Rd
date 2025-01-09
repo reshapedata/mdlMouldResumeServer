@@ -2,7 +2,7 @@
 % Please edit documentation in R/MouldResume.R
 \name{MouldResumeServer_upload}
 \alias{MouldResumeServer_upload}
-\title{上传}
+\title{模具上传}
 \usage{
 MouldResumeServer_upload(input, output, session, dms_token)
 }
@@ -19,7 +19,7 @@ MouldResumeServer_upload(input, output, session, dms_token)
 返回值
 }
 \description{
-上传
+模具上传
 }
 \examples{
 MouldResumeServer_upload()

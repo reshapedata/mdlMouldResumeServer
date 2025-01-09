@@ -2,7 +2,7 @@
 % Please edit documentation in R/MouldResume.R
 \name{MouldResumeServer_preview}
 \alias{MouldResumeServer_preview}
-\title{预览}
+\title{模具预览}
 \usage{
 MouldResumeServer_preview(input, output, session, dms_token)
 }
@@ -19,7 +19,7 @@ MouldResumeServer_preview(input, output, session, dms_token)
 返回值
 }
 \description{
-预览
+模具预览
 }
 \examples{
 MouldResumeServer_preview()
